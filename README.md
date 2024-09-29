@@ -4,33 +4,33 @@
 
 ### My skills:
 
-> - HTML
-> - CSS
->   + Sass
-> - JavaScript
-> - React  
->   + React Router <br/>
->   + React Hooks
->   + React Hook Form
->   + react-markdown
-> - Redux
->   + Redux Thunk
+- [x] HTML
+- [x] CSS
+  - [x] Sass
+- [x] JavaScript
+- [x] React
+  - [x] React Router
+  - [x] React Hooks
+  - [x] React Hook Form
+  - [x] react-markdown
+- [x] Redux
+  - [x] Redux Thunk
 
 ---
 
-> - Ant Design
-> - Date-fns
-> - Classnames
-> - GSAP
+- [x] Ant Design
+- [x] Date-fns
+- [x] Classnames
+- [x] GSAP
 
 ---
 
-> - Webpack
->   + Babel
->   + ESLint
->   + Lint-staged
->   + Prettier
->   + Husky
+ - [x] Webpack
+    - [x] Babel
+    - [x] ESLint
+    - [x] Lint-staged
+    - [x] Prettier
+    - [x] Husky
 
 ---
 
