@@ -1,47 +1,36 @@
 # 👋 Hi, I’m Dmitrii
 
-I recently realized that I love coding.<br>
-And now I do it regularly.
-
 ---
-
-I completed long courses to become a front-end developer.
 
 ### My skills:
-- HTML
-- CSS
-- JavaScript
-- React
-- Redux
+
+> - HTML
+> - CSS
+>   + Sass
+> - JavaScript
+> - React  
+>   + React Router <br/>
+>   + React Hooks
+>   + React Hook Form
+>   + react-markdown
+> - Redux
+>   + Redux Thunk
 
 ---
 
-### My final educational [project](https://github.com/IakovlevDmitrii/rw_2.0)
+> - Ant Design
+> - Date-fns
+> - Classnames
+> - GSAP
 
-As part of the _React_ learning program
+---
 
-#### Objectives:
-> - Learning React
-> - Learning React Hooks
-> - Learning Redux
-> - Learning Redux Thunk
-> - Use React Router
-> - Use React Hook Form
-> - Use react-markdown
-> - Use Ant Design
-> - Use date-fns
-> - Use Classnames
-> - Use Sass
-> - Use GSAP
-> - Learn about authentication and form validation
-> - #### Webpack
->> - Babel
->> - ESLint
->> - Lint-staged
->> - Prettier
->> - Husky
-
-### Solution can be seen [here](https://rw-2-0.vercel.app/)
+> - Webpack
+>   + Babel
+>   + ESLint
+>   + Lint-staged
+>   + Prettier
+>   + Husky
 
 ---
 
@@ -50,3 +39,87 @@ several of my works:
 - [alpinpro.kz](https://alpinpro.kz/)
 
 - [danametrics.ai](https://danametrics.ai/)
+
+[//]: # ( ✅ 👋 ✔️ )
+
+[//]: # (👀 I’m interested in ...)
+
+[//]: # (🌱 I’m currently learning Redux)
+
+[//]: # (💞️ I’m looking to collaborate on ...)
+
+[//]: # (📫 How to reach me ...)
+
+[//]: # ()
+[//]: # (✅ Requirements:)
+
+[//]: # (✔️ 3+ years of professional experience as an HTML-coder)
+
+[//]: # (✔️ Excellent knowledge of HTML, CSS)
+
+[//]: # (✔️ Good understanding of UI/UX design and cross-browser layout)
+
+[//]: # (✔️ Strong knowledge in CSS/JS animation)
+
+[//]: # (✔️ Experience working with CSS Pre-Processors: Sass/Less)
+
+[//]: # (✔️ Understanding of web application performance optimization)
+
+[//]: # (✔️ Experience with Figma / Sketch / Photoshop)
+
+[//]: # (✔️ At least Intermediate lvl of English)
+
+[//]: # ()
+[//]: # (✅ Nice to Have:)
+
+[//]: # (✔️ Understanding of front-end build tools &#40;Gulp, Webpack, etc&#41;)
+
+[//]: # (✔️ Knowledge of HTML email templates)
+
+[//]: # (✔️ Experience working with CSS frameworks)
+
+[//]: # (✔️ Experience working with template engines &#40;pug, Handlebars, etc&#41;)
+
+[//]: # (✔️ Experience with Canvas API / WebGL / ThreeJS / GSAP)
+
+[//]: # ()
+[//]: # (✅Duties and opportunities)
+
+[//]: # (✔️ Develop the efficient, fast and adaptive layout of interfaces)
+
+[//]: # (✔️ Collaborate with developers and web designers to improve product)
+
+[//]: # (✔️ Introduce ideas, solutions and optimise existing applications)
+
+[//]: # ()
+[//]: # ()
+[//]: # (✅ We offer excellent benefits, including but not limited to:)
+
+[//]: # ()
+[//]: # (🧑🏻‍💻 Learning and development opportunities and interesting challenging tasks;)
+
+[//]: # ()
+[//]: # (📝 Official employment in accordance with the laws of Cyprus and the EU, registration of family members;)
+
+[//]: # ()
+[//]: # (✈️ Relocation package &#40;tickets, staying in a hotel for 2 weeks&#41;;)
+
+[//]: # ()
+[//]: # (🏋️‍♂️ Company fitness corner in the office for employees;)
+
+[//]: # ()
+[//]: # (📚 Opportunity to develop language skills and partial compensation for the cost of language classes;)
+
+[//]: # ()
+[//]: # (🎁 Birthday celebration present;)
+
+[//]: # ()
+[//]: # (🏝 Time for proper rest and 24 working days of Annual Vacation;)
+
+[//]: # ()
+[//]: # (🍲 Breakfasts and lunches in the office &#40;partially paid by the company&#41;.)
+
+[//]: # ()
+[//]: # ()
+[//]: # ()
+[//]: # (Join BrainRocket and rock with us! 🚀)
